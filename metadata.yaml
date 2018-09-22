@@ -1,0 +1,22 @@
+_repo: The-Story-of-the-Mince-Pie_55143
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gates, Josephine Scribner
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '47892'
+    url: http://www.gutenberg.org/2009/agents/47892
+description: ''
+gutenberg_issued: '2017-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story of the Mince Pie
+url: http://www.gutenberg.org/ebooks/55143
